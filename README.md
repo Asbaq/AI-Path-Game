@@ -3,6 +3,11 @@
 ## Overview 🎮
 AI-Path-Game is a Unity-based game where the player navigates through a guarded path while avoiding detection. The game includes AI path-following mechanics, player movement, and game-over conditions based on visibility.
 
+🔗 Video Trailer
+
+https://youtu.be/PFBZKoA1RIU
+
+
 ![AI Path](https://user-images.githubusercontent.com/62818241/204101177-d2371fe5-0d21-4ec6-a1e1-b87344feeca6.PNG)
 
 ## Player Movement 🎯
